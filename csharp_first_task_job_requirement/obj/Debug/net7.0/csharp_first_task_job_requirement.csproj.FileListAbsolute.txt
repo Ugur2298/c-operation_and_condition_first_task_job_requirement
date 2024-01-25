@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\bin\Debug\net7.0\csharp_first_task_job_requirement.exe
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\bin\Debug\net7.0\csharp_first_task_job_requirement.deps.json
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\bin\Debug\net7.0\csharp_first_task_job_requirement.runtimeconfig.json
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\bin\Debug\net7.0\csharp_first_task_job_requirement.dll
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\bin\Debug\net7.0\csharp_first_task_job_requirement.pdb
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.AssemblyInfo.cs
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.dll
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\refint\csharp_first_task_job_requirement.dll
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.pdb
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\csharp_first_task_job_requirement.genruntimeconfig.cache
+C:\Users\user\Desktop\PB501\c# operator and condition task1 (Job Requirement)\csharp_first_task_job_requirement\csharp_first_task_job_requirement\obj\Debug\net7.0\ref\csharp_first_task_job_requirement.dll
